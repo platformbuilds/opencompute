@@ -1,4 +1,9 @@
 
+---
+layout: home
+title: Open Compute Project
+permalink: /index.html
+---
 
 # Open Compute Project
 The Open Compute Project (OCP) is a global initiative aimed at redefining data center infrastructure through open-source hardware designs. 
