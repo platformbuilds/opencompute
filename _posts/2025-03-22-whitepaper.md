@@ -7,7 +7,7 @@ credits: true                         # Adds credits for the page including the 
 author_name: aarvee                   # Sets the name of the author
 author_url: https://github.com/platformbuilds/ # An optional link to a page specific to the author
 ---
-![Open Compute Project](../assets/images/ocp.png)
+![Open Compute Project](../../../assets/images/ocp.png)
 # **Revolutionizing Data Centers: The Open Compute Project (OCP) and the Future of Open-Source Hardware**
 ---
 ## **Whitepaper Draft**

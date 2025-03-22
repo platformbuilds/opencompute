@@ -7,7 +7,7 @@ credits: true                         # Adds credits for the page including the 
 author_name: aarvee                   # Sets the name of the author
 author_url: https://github.com/platformbuilds/ # An optional link to a page specific to the author
 ---
-![Open Compute Relevance in India](../assets/images/ocp-india.png)
+![Open Compute Relevance in India](/../../../assets/images/ocp-india.png)
 # OpenCompute Relevance in India
 
 Open Compute Project (OCP) in India is gaining traction as the country continues to expand its data center infrastructure and embrace open-source hardware and software solutions. 
