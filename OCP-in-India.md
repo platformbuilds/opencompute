@@ -1,3 +1,7 @@
+---
+title: OpenCompute Relevance in India
+---
+
 # OpenCompute Relevance in India
 
 Open Compute Project (OCP) in India is gaining traction as the country continues to expand its data center infrastructure and embrace open-source hardware and software solutions. 
