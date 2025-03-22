@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Open Compute Project
 bare: false                            # Make this page by not displaying author information, and ensuring there's no table of contents
 toc: true                             # Adds a table of contents to the left sidebar of the page
