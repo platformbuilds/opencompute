@@ -1,6 +1,7 @@
 <footer>
 	<div class="content">
 	<div class="wrapper">
+		<div id="top"></div>
 		<div class="footer-col footer-col-1">
 			<h2 class="footer-heading">{{ site.title | escape }}</h2>
 		</div>
@@ -9,7 +10,9 @@
 				{% include social.html %}
 			{% endif %}
 		</div>
-		<div class="footer-col footer-col-3">
+		<div class="footer-col footer-col-3"><a href="#top">Back to the Top</a>
+		</div>
+		<div class="footer-col footer-col-4">
 			<p>{{ site.description | escape }}</p>
 		</div>
 	</div>
