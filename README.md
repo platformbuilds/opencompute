@@ -1,12 +1,4 @@
----
-layout: post
-title: Open Compute Project
-bare: true                            # Make this page by not displaying author information, and ensuring there's no table of contents
-toc: true                             # Adds a table of contents to the left sidebar of the page
-credits: true                         # Adds credits for the page including the author and date to the title
-author_name: aarvee                   # Sets the name of the author
-author_url: https://github.com/platformbuilds/ # An optional link to a page specific to the author
----
+
 
 # Open Compute Project
 The Open Compute Project (OCP) is a global initiative aimed at redefining data center infrastructure through open-source hardware designs. 
